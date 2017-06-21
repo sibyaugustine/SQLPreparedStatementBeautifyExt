@@ -1,0 +1,2 @@
+# SQLPreparedStatementBeautifyExt
+Extension For Chrome
